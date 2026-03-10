@@ -1,1 +1,1 @@
-# TeamPulse backend application package.
+"""TeamPulse backend application package."""
